@@ -1,0 +1,6 @@
+.env
+agent.py
+agno.db
+finance.py
+memoryAgent.py
+team.py
